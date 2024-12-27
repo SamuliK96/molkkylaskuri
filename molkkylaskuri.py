@@ -75,8 +75,5 @@ class Player:
         self.throws = []
         self.isout = False
 
-def main():
-    Game()
-
 if __name__ == "__main__":
-    main()
+    Game()
